@@ -57,3 +57,10 @@ Open `http://127.0.0` to see the app, or `http://127.0.0` to log in with your ad
 * **MVT Architecture**: Structuring code using Models, Views, and Templates.
 * **Generic Views**: Reducing repetitive code by using Django's built-in `ListView` and `DetailView`.
 * **Automated Testing**: Writing basic tests to check for bugs, like ensuring old questions don't display future publication dates.
+
+
+## Last Updated
+
+<!-- TIMESTAMP_START -->
+_Last updated: 2026-08-30 18:48 UTC_
+<!-- TIMESTAMP_END -->
